@@ -2,6 +2,6 @@ input:focus::placeholder{
     color:transparent;
 }
 .extendCol{
-    height:100% !important;
-    vertical-align: top !important;
+    height:100%;
+    vertical-align: top;
 }
